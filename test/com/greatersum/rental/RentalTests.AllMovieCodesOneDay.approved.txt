@@ -1,0 +1,7 @@
+Rental Record for martin
+	Ran	2
+	Trois Couleurs: Bleu	2
+	Cars 2	1.5
+	Latest Hit Release	3
+Amount owed is 8.5
+You earned 4 frequent renter points
